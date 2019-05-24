@@ -21,7 +21,8 @@ p {
   font-size: 14px;}
 
 .top,
-.footer {
+.footer,
+a {
   color: white;}
 
 .top {
